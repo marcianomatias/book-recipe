@@ -47,3 +47,8 @@ Se você encontrar algum problema ao usar o aplicativo ou tiver sugestões de me
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir o aplicativo de acordo com os termos da licença.
+
+![image](https://github.com/marcianomatias/book-recipe/assets/10820742/2f02eef6-6f21-4c40-acc7-7585e7e81457)
+![image](https://github.com/marcianomatias/book-recipe/assets/10820742/d5d32939-a581-4035-9f98-e188ff815cba)
+
+
