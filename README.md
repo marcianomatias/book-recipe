@@ -20,6 +20,34 @@ O aplicativo Book Recipes foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Como Utilizar
 
+### Gerando uma Chave da API da Spoonacular
+
+Para utilizar a API da Spoonacular em seu aplicativo Book Recipes, você precisará gerar uma chave de API no site oficial da Spoonacular. Siga as etapas abaixo para obter sua chave:
+
+1. Acesse o site da Spoonacular em https://spoonacular.com/food-api.
+
+2. Clique em "Sign up" (Registrar-se) no canto superior direito da página para criar uma conta gratuita.
+
+3. Preencha o formulário de registro com suas informações pessoais e escolha um nome de usuário e senha. Em seguida, clique em "Create Account" (Criar Conta).
+
+4. Após criar sua conta, faça login usando seu nome de usuário e senha.
+
+5. Uma vez logado, vá para a página de preços da API da Spoonacular.
+
+6. Role para baixo até encontrar o plano gratuito e clique em "Get Free API Key" (Obter Chave da API Gratuita).
+
+7. Leia e concorde com os termos de uso da API.
+
+8. Em seguida, você verá sua chave da API gerada. Copie essa chave para utilizá-la no seu aplicativo Book Recipes.
+
+9. No código do seu aplicativo, substitua `SUACHAVEAPI` pela chave da API que você acabou de copiar.
+
+```javascript
+const apiKey = 'SUACHAVEAPI';
+```
+
+Agora você possui uma chave da API da Spoonacular e pode utilizá-la em seu aplicativo Book Recipes para acessar os recursos e dados fornecidos pela API.
+
 1. Clone este repositório em seu ambiente de desenvolvimento local.
 
 ```shell
